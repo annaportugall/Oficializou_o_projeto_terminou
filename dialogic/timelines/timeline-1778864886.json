@@ -1,0 +1,171 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você a pega na mão, os dedos tremendo enquanto se fecham em torno do metal. O fecho é rasgado, uma borda de trás irregular onde foi forçada para abrir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua visão é estreita. A floresta parece mais escura agora, as sombras pressionadas como bocas famintas."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você pressiona a corrente contra a palma da mão, segurando o metal quente para evitar que suas mãos tremam."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lian?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua voz soa rouca, o nome arrancado de sua garganta. O vento responde com um gemido melancólico entre os galhos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O nome atinge o silêncio como uma pedra atirada em um poço — sem eco, sem resposta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você se força a ficar de pé, pressionando a corrente rasgada contra a palma com tanta força que os elos cravam em sua pele."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A floresta parece respirar ao seu redor; galhos sussurram noite a dentro, mas não há sinal de ninguém."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "A faca permanece firme em sua outra mão, fria."
+		},
+		{
+			"choice": "Olhar ao redor.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O rastro de sangue continua — agora tênue, quase desaparecendo, reduzido a uma mancha escura na casca de uma árvore caída."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você o segue mesmo assim. Não pode perder isso. Não agora."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Passo a passo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cada som parece errado — alto demais, próximo demais. O estalar sob seus pés."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O silêncio logo depois. Nada além disso. Nenhuma voz. Nenhum movimento."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seu coração bate forte, rápido, como se tentasse te empurrar para frente. Ou te avisar. Você não sabe qual dos dois é pior."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você continua."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Porque parar... não é uma opção."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então você vira a cabeça — quase sem querer."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O luar corta a lateral da casa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E ali, imóvel, à margem da escuridão..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O galpão."
+		},
+		{
+			"choice": "Ir em direção ao galpão.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1781632665.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1778864886.json",
+		"name": "Cap_4"
+	}
+}
